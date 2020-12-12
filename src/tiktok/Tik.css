@@ -1,0 +1,33 @@
+
+
+
+.header{
+    background-color:yellow;
+}
+
+
+.homeContainer{
+    display:flex;
+    width:100vw;
+    height:600px;
+}
+
+.followersColumn{
+    background-color:red;
+    width:33%;
+    height:100%;
+}
+
+
+.feedContainer{
+    background-color:white;
+    width:33%;
+    height:100%;
+}
+
+.suggested-box{
+    background-color:blue;
+    width:33%;
+    height:100%;
+}
+
